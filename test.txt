@@ -1,0 +1,2 @@
+\i1This\i0 is a test file
+\i1New file
